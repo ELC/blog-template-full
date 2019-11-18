@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pelican = "*"
+Markdown = "*"
+invoke = "*"
+pillow = "*"
+
+[dev-packages]
+pylint = "*"
+
+[scripts]
+build = "invoke build"
+buildWin = "invoke buildWin"
+serve = "python -m http.server --directory output"
+
+[requires]
+python_version = "3.7"
