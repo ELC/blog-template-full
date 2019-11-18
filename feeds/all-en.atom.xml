@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luis Donet Personal Website</title><link href="http://localhost:5500/" rel="alternate"></link><link href="feeds/all-en.atom.xml" rel="self"></link><id>http://localhost:5500/</id><updated>2019-11-18T00:00:00-03:00</updated><subtitle>Luis Donet Personal Website</subtitle><entry><title>Hello World!!</title><link href="http://localhost:5500/posts/hello-world" rel="alternate"></link><published>2019-11-18T00:00:00-03:00</published><updated>2019-11-18T00:00:00-03:00</updated><author><name>Luis Donet</name></author><id>tag:localhost,2019-11-18:/posts/hello-world</id><summary type="html">&lt;p&gt;How a friend of mine created a blog for me&lt;/p&gt;
+
+
+&lt;h2 id="this-is-a-title"&gt;&lt;a class="toclink" href="#this-is-a-title"&gt;This is a title&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I'm the content! My name is Luis Donet! And this actually works!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Me" class="narrow" src="http://localhost:5500/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="gallery narrow" href="./blog/images/hello/hola!.jpg"&gt;&lt;img alt="Me" class="b-lazy" data-src="/blog/images/hello/hola!.jpg" src="http://localhost:5500/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;How a friend of mine created a blog for me&lt;/p&gt;
+
+
+&lt;h2 id="this-is-a-title"&gt;&lt;a class="toclink" href="#this-is-a-title"&gt;This is a title&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I'm the content! My name is Luis Donet! And this actually works!&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Me" class="narrow" src="http://localhost:5500/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="gallery narrow" href="./blog/images/hello/hola!.jpg"&gt;&lt;img alt="Me" class="b-lazy" data-src="/blog/images/hello/hola!.jpg" src="http://localhost:5500/posts/hello-world/images/hello/hola!-thumbnail.jpg" width="640"&gt;&lt;/a&gt;&lt;/p&gt;</content><category term="probability"></category></entry></feed>
