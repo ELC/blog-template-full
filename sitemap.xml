@@ -5,14 +5,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://localhost:5500/</loc>
-<lastmod>2019-11-18T23:55:26-00:00</lastmod>
+<lastmod>2019-11-18T23:59:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://localhost:5500/pages/about/</loc>
-<lastmod>2019-11-18T23:55:26-00:00</lastmod>
+<lastmod>2019-11-18T23:59:57-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
